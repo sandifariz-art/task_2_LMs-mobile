@@ -110,3 +110,15 @@ Aplikasi mobile bioskop yang dibangun menggunakan Flutter dengan fitur login, re
 - Permission `ACCESS_FINE_LOCATION`  
 - Permission `ACCESS_COARSE_LOCATION`  
 - SQLite database support
+
+## Tampilan Login Page
+
+![Login Page](assets/login.png)
+
+## Tampilan Signup Page
+
+![Signup Page](assets/signup.png)
+
+## Tampilan Profile Page
+
+![Signup Page](assets/profile.png)
