@@ -122,3 +122,8 @@ Aplikasi mobile bioskop yang dibangun menggunakan Flutter dengan fitur login, re
 ## Tampilan Profile Page
 
 ![Signup Page](assets/profile.png)
+
+## 👨‍💻 Dibuat Oleh
+**Sandi Fariz Ahmadi**  
+📧 [Tugas LMS Assigment 2: Pemrograman Mobile] (https://lms.umm.ac.id/mod/assign/view.php?id=331307)  
+🌐 [GitHub: sandifariz-art](https://github.com/sandifariz-art)
